@@ -21,8 +21,8 @@ This project is a responsive recipe page developed for a Frontend Mentor challen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/JasperMunene/recipe)
+- Live Site URL: [Live Site](https://simpleomeletterecipe1.netlify.app/)
 
 ## My process
 HTML and Tailwind Setup: Set up HTML structure with semantic elements and apply Tailwind CSS for styling.
